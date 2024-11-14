@@ -2,7 +2,7 @@
 <h2>My languages and familiarities</h2>
 
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white <a https://www.google.com/search?client=safari&rls=en&q=what+is+python&ie=UTF-8&oe=UTF-8)
+![GitHub]([https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white](https://www.google.com/search?client=safari&rls=en&q=what+is+python&ie=UTF-8&oe=UTF-8))
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
