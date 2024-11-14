@@ -1,4 +1,4 @@
-# Zachary-resume	
+# My Resume	
 <h2>My languages and familiarities</h2>
 
 
