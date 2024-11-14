@@ -1,5 +1,5 @@
 # Zachary-resume	
-<h2>My languages, and familiarities</h2>
+<h2>My languages and familiarities</h2>
 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
